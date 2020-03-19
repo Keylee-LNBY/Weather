@@ -10,7 +10,7 @@ This application pulls in the Open Weather API and display current and future we
 - UV index with color indicator 
 - Both current weather and weather for the next five days 
 
-![Image of Weather Application]()
+![Image of Weather Application](https://github.com/Keylee-LNBY/Weather/blob/master/assets/weather.png)
 
 This app gave me the opportunity to push myself in generating almost an entire page dynamically. Having started out hard coding each div to hold the current weather and five day outlook I quickly discovered how much more work that created in Javascript. So I started over again creating the page as the user searches. 
 
